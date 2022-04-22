@@ -1,0 +1,23 @@
+{
+  "name": "phase-1-js-fetch-on-demand-with-forms",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asmasa1588/phase-1-js-fetch-on-demand-with-forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asmasa1588/phase-1-js-fetch-on-demand-with-forms/issues"
+  },
+  "homepage": "https://github.com/Asmasa1588/phase-1-js-fetch-on-demand-with-forms#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
